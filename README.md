@@ -7,3 +7,5 @@ README.md
 
 https://github.com/ileileile/ot_harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt
 https://github.com/ileileile/ot_harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt
+
+muutettu local gitssa
